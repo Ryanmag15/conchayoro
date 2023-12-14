@@ -1,4 +1,4 @@
-name: conchayoro-pipeline-ecr-ebs
+name: pipeline
 
 on:
   push:
