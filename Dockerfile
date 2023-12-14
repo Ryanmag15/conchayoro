@@ -18,4 +18,4 @@ EXPOSE 80
 
 # Copia o conteúdo do Stage 2 (Frontend)
 # Substitua 'path/to/frontend' pelo caminho real do seu código-fonte do frontend
-COPY --from=frontend /path/to/frontend /usr/share/nginx/html
+COPY --from=frontend /conchayoro/frontend /usr/share/nginx/html
