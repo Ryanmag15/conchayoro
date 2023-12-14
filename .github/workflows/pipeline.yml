@@ -63,3 +63,4 @@ jobs:
             pip install awsebcli
         - run: |
             eb deploy --verbose
+            
